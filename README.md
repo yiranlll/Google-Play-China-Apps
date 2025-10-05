@@ -8,7 +8,7 @@
 * [小红书](https://play.google.com/store/apps/details?id=com.xingin.xhs)
 * [抖音](https://play.google.com/store/apps/details?id=com.ss.android.ugc.aweme.mobile)（🇭🇰限定）
 * [知乎](https://play.google.com/store/apps/details?id=com.zhihu.android)
-* [豆瓣](https://play.google.com/store/apps/details?id=com.douban.frodo)(❌已下架)
+* [豆瓣](https://play.google.com/store/apps/details?id=com.douban.frodo)（❌已下架）
 * [即刻](https://play.google.com/store/apps/details?id=com.ruguoapp.jike)
 * [微信](https://play.google.com/store/apps/details?id=com.tencent.mm)
 * [QQ](https://play.google.com/store/apps/details?id=com.tencent.mobileqq)
@@ -25,9 +25,11 @@
 * [微信读书墨水屏版](https://play.google.com/store/apps/details?id=com.tencent.weread.eink)
 * [微信听书](https://play.google.com/store/apps/details?id=com.tencent.wehear)
 * [喜马拉雅](https://play.google.com/store/apps/details?id=com.ximalaya.ting.himalaya)
-* [网易云音乐](https://play.google.com/store/apps/details?id=com.netease.cloudmusic)（❌最新版本已不可用）
+* [网易云音乐](https://play.google.com/store/apps/details?id=com.netease.cloudmusic)（❌已下架）
 * [澎湃新闻](https://play.google.com/store/apps/details?id=com.wondertek.paper)
 * [爱奇艺](https://play.google.com/store/apps/details?id=com.iqiyi.i18n)
+* [Bilibili](https://play.google.com/store/apps/details?id=tv.danmaku.bili)
+* [Bilibili白](https://play.google.com/store/apps/details?id=com.bilibili.app.in)
 
 ## 旅行出游
 * [高德地图](https://play.google.com/store/apps/details?id=com.autonavi.minimap)
@@ -47,7 +49,7 @@
 * [美团](https://play.google.com/store/apps/details?id=com.sankuai.meituan)
 * [大众点评](https://play.google.com/store/apps/details?id=com.dianping.v1)
 * [星巴克中国](https://play.google.com/store/apps/details?id=com.starbucks.cn)
-* [麦当劳中国](https://play.google.com/store/apps/details?id=com.mcdonalds.gma.cn)
+* [麦当劳中国](https://play.google.com/store/apps/details?id=com.mcdonalds.gma.cn)（❌已下架）
 
 ## 数字管理
 * [米家](https://play.google.com/store/apps/details?id=com.xiaomi.smarthome)
